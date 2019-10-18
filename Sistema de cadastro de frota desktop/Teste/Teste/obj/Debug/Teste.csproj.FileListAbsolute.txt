@@ -1,0 +1,10 @@
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\bin\Debug\Teste.exe.config
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\bin\Debug\Teste.exe
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\bin\Debug\Teste.pdb
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\obj\Debug\Teste.Form1.resources
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.Cache
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\obj\Debug\Teste.exe
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\obj\Debug\Teste.pdb
+c:\users\leona\onedrive\documentos\visual studio 2015\Projects\Teste\Teste\obj\Debug\Teste.Menu.resources
