@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #f1f1f1;
+}
+#menu{
+    margin: 0;
+    padding: 0;
+    margin-top: 250px;
+}
+#menu li{
+    list-style:none;
+    display: inline-block;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#menu li a{
+    text-decoration: none;
+    position: relative;
+    color: #131313;
+    font-size: 35px;
+    font-weight: 700;
+    font-family: sans-serif;
+    display:block;
+    overflow: hidden;
+    transition: 0.7s all;
+    padding: 14px 20px;
+    text-transform: uppercase;
+}
+#menu li a:before{
+    content: '';
+    width: 45px;
+    height: 5px;
+    position: absolute;
+    border-bottom: 8px solid #131313;
+    bottom: 0px;
+    right: 350px;
+    transition: 0.7s all;
+
+}
+#menu li a:hover:before{
+    right: 0;
+
+}
+h2{
+    margin-top:500px;
+}
+#home{
+    background: #f1f1f1;
+    height: 670px;
+}
+#home section{
+    position:absolute;
+    background: rgba(138, 138, 138, 0.61);
+    width: 1100px;
+    height: 670px;
+    box-sizing: border-box;
+    margin-left:120px;
+    font-family: sans-serif;
+    border-radius: 8px;
+}
+#home #box h2{
+    text-align: center;
+    position: relative;
+    top:20px;
+}
+#home #box p{
+    text-align: center;
+    margin-top:20px;
+}
+#port{
+    background-color: #f1f1f1;
+}
+#port section{
+    background-color: #131313;
+    height: 700px;
+    margin-top:-500px;
+}
+#port section h2{
+    color:#fff;
+    text-align: center;
+}
+#sobre{
+    background-color: #f1f1f1;
+}
+#sobre section{
+    background: #444;
+    margin-top: -500px;
+    height: 700px;
+}
+#sobre section h2{
+    color:#fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+
+}
+#serv{
+    background-color:#f1f1f1;
+    height: 670px;
+}
+#serv section{
+    margin-top: -500px;
+    height: 120px;
+    background-color:#444;
+    box-shadow: 2px 0px 5px black;
+}
+#serv section h2{
+    text-align: center;
+    font-family: sans-serif;
+    color:#fff;
+    line-height:20px;
+    padding: 10px;
+}
+#contato{
+    background-color:#f1f1f1;
+}
+#contato section{
+    height: 680px;
+    margin-top: -500px;
+}
+#contato section h2{
+    text-align: center;
+    font-family:sans-serif;
+
+}
+#rodp{
+    background-color:#000;
+    height: 100px;
+}
+#rodp footer{
+    color:#fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+#home #box{
+    box-sizing: border-box;
+    width: 680px;
+    height: 600px;
+    background-color: #f1f1f1a1;
+    position: relative;
+    top:40px;
+    left: 500px;
+    box-shadow: 1px 0px 4px black;
+    border-radius: 5px;
+}
+#home #foto{
+    width: 240px;
+    height: 240px;
+    border-radius: 120px;
+    background-color: #f1f1f1;
+    position: absolute;
+    overflow: hidden;
+    margin-top: 40px;
+    margin-left:80px;
+    box-shadow: 1px 0px 4px black;
+}
+#home #nome{
+    position: absolute;
+    font-size: 15px;
+    font-family: fantasy;
+    margin-top:300px;
+    margin-left: 140px;
+    color:#444;    
+}
+#home #barra-nome{
+    position: absolute;
+    width: 140px;
+    height: 2px;
+    background-color:rgba(109, 109, 109, 0.822);
+    margin-top:330px;
+    margin-left: 125px;
+}
+.w-10{
+    position:absolute;
+    margin-left:80px;
+    color:#444;
+}
+#home .info-nome #p{
+    margin-top:345px;
+}
+#home .info-nome #p1{
+    margin-top:365px;
+}
+#p2{
+    margin-top:385px;
+}
